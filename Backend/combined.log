@@ -1,0 +1,311 @@
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T08:59:41.955Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T08:59:41.974Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T08:59:41.974Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T08:59:42.072Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T08:59:42.076Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T08:59:42.138Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:00:10.055Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:00:10.379Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:00:10.427Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:00:10.437Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:00:10.504Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:00:10.510Z","userId":2}
+{"email":"venkatesh@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:00:10.511Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:00:45.023Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:00:45.028Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:00:45.031Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:00:45.144Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:00:45.218Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:00:45.222Z","userId":2}
+{"email":"venkatesh@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:00:45.222Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:01:02.741Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:01:03.052Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:01:03.054Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:01:03.056Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:01:03.135Z"}
+{"email":"venkatesh@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:01:03.137Z","userId":2}
+{"email":"venkatesh@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:01:03.137Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:04:18.871Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:04:18.878Z"}
+{"email":"ajay@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:04:18.883Z"}
+{"exists":true,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:04:19.005Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:04:21.407Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:04:21.409Z"}
+{"exists":false,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:04:21.412Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:05:29.058Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:05:29.065Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:05:29.069Z"}
+{"exists":false,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:05:29.183Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:05:29.198Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Signup attempt","timestamp":"2025-06-16T09:05:29.206Z","username":"ajaykumar"}
+{"level":"info","message":"User created","timestamp":"2025-06-16T09:05:29.331Z","userId":3}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T09:09:57.130Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T09:09:57.148Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T09:09:57.149Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:09:57.280Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T09:09:57.335Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:09:57.372Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:09:57.372Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:09:58.822Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:09:58.824Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:09:58.825Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:01.178Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:01.284Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:01.285Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:08.938Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:09.019Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:09.019Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:17.161Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:17.224Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:17.224Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:27.227Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:27.292Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:27.292Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T09:10:40.057Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T09:10:40.076Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T09:10:40.076Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:40.159Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:40.231Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:40.233Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T09:10:40.248Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:41.424Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:41.425Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:41.426Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:44.928Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:45.003Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:45.004Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:49.536Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:49.618Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:49.619Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:10:59.630Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:10:59.699Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:10:59.700Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:11:09.707Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:11:09.786Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:11:09.786Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:11:19.793Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:11:19.977Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:11:19.978Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:11:29.982Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:11:32.817Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:11:32.817Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:11:42.823Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database initialization failed","timestamp":"2025-06-16T09:11:43.211Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:11:43.212Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:11:53.217Z"}
+{"error":"timeout exceeded when trying to connect","level":"error","message":"Database connection retry failed","timestamp":"2025-06-16T09:12:03.219Z"}
+{"error":"syntax error at or near \"NOT\"","level":"error","message":"Failed to connect to database after retries","timestamp":"2025-06-16T09:12:23.227Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T09:17:18.885Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T09:17:18.907Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T09:17:18.908Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:17:18.998Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T09:17:19.074Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T09:17:19.112Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:35.522Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:35.549Z"}
+{"email":"ajay@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:17:35.620Z"}
+{"exists":true,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:17:35.676Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:38.433Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:17:38.439Z"}
+{"exists":true,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:17:38.454Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:39.401Z"}
+{"email":"ajay11@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:17:39.404Z"}
+{"exists":false,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:17:39.405Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:41.034Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:41.041Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:17:41.049Z"}
+{"exists":true,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:17:41.051Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:17:41.223Z"}
+{"email":"ajay@gmail.com","level":"info","message":"Checking email","timestamp":"2025-06-16T09:17:41.225Z"}
+{"exists":true,"level":"info","message":"Email check result","timestamp":"2025-06-16T09:17:41.226Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:18:09.498Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:18:09.817Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:18:09.825Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:18:09.833Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:18:09.980Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:18:10.015Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:18:10.017Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:18:41.888Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:18:41.896Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:18:41.900Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:18:42.025Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:18:42.091Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:18:42.092Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:18:42.094Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:19:07.522Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:19:07.832Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:19:07.835Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:19:07.839Z"}
+{"isValid":false,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:19:07.930Z"}
+{"level":"warn","message":"Invalid password","timestamp":"2025-06-16T09:19:07.930Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:19:15.658Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:19:15.666Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:19:15.672Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:19:15.680Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:19:15.784Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:19:15.785Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:19:15.786Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:21:40.847Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:21:40.852Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T09:21:40.855Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:21:40.860Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T09:21:40.862Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T09:21:40.863Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:21:46.049Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:21:46.053Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T09:21:46.054Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T09:21:46.054Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:22:42.990Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:22:43.302Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:22:43.306Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:22:43.406Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:22:43.471Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:22:43.473Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:22:43.473Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:24:22.569Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:24:22.880Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:24:22.882Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:24:22.978Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:24:23.045Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:24:23.046Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:24:23.047Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T09:26:37.179Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T09:26:37.203Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T09:26:37.203Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T09:26:37.299Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:26:37.388Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T09:26:37.420Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:26:49.707Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:26:50.034Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:26:50.129Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:26:50.157Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:26:50.244Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:26:50.248Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:26:50.249Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:28:19.408Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:28:19.720Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:28:19.723Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:28:19.820Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:28:19.886Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:28:19.888Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:28:19.888Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T09:30:01.398Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T09:30:01.418Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T09:30:01.419Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T09:30:01.504Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T09:30:01.506Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T09:30:01.571Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:30:14.022Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:30:14.342Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:30:14.390Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:30:14.406Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:30:14.478Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:30:14.484Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:30:14.485Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:40.863Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:41.174Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:33:41.179Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:33:41.423Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:33:41.490Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:33:41.493Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:33:41.493Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:44.974Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T09:33:44.975Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:44.978Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:44.986Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T09:33:44.987Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T09:33:44.988Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:54.321Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:54.334Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T09:33:54.336Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T09:33:54.338Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T09:33:54.417Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T09:33:54.418Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T09:33:54.418Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:57.651Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T09:33:57.652Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:57.657Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T09:33:57.673Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T09:33:57.675Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T09:33:57.675Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T11:49:03.963Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T11:49:04.705Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T11:49:04.707Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T11:49:07.176Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T11:49:07.396Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T11:49:07.409Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:49:28.696Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:49:29.026Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T11:49:29.141Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T11:49:29.383Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T11:49:30.066Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T11:49:30.153Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T11:49:30.156Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:49:36.711Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:49:36.733Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T11:49:36.735Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:49:36.989Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T11:49:36.992Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T11:49:36.993Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T11:54:17.566Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T11:54:17.568Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:84:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T11:54:17.573Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T11:54:17.578Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T11:54:17.578Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:84:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T11:54:17.579Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T11:54:17.582Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T11:54:17.582Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:84:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T11:54:17.583Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T11:55:39.608Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T11:55:39.637Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008","timestamp":"2025-06-16T11:55:39.637Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T11:55:41.047Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T11:55:41.050Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T11:55:41.152Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:56:29.455Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:56:29.789Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T11:56:29.892Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T11:56:31.033Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T11:56:31.209Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T11:56:31.293Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T11:56:31.294Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:56:43.777Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:56:43.783Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T11:56:43.785Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T11:56:43.792Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T11:56:43.794Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T11:56:43.795Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:05:50.984Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:05:50.993Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T12:05:50.994Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:05:51.004Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T12:05:51.014Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T12:05:51.017Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:06:29.057Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:06:30.290Z"}
+{"level":"info","message":"Test cookie endpoint","timestamp":"2025-06-16T12:06:30.292Z","token":"undefined"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:06:30.297Z"}
+{"level":"info","message":"Token from cookie","timestamp":"2025-06-16T12:06:30.298Z","token":"undefined"}
+{"level":"warn","message":"No token provided in cookie","path":"/api/profile","timestamp":"2025-06-16T12:06:30.308Z"}
+{"ALLOWED_ORIGINS":["http://localhost:8005","http://localhost:8006","http://localhost:8007","http://localhost:8008","http://127.0.0.1:5502","http://54.166.206.245:8005","http://54.166.206.245:8006","http://54.166.206.245:8007","http://54.166.206.245:8008","http://localhost:3005"],"DB_HOST":"localhost","DB_NAME":"new_employee_db","DB_PORT":"5432","DB_USER":"postgres","FRONTEND_URL":"http://localhost:8005","JWT_SECRET":"****","NODE_ENV":"localhost","PORT":"3005","level":"info","message":"Environment Configuration","timestamp":"2025-06-16T12:07:57.801Z"}
+{"level":"info","message":"Server running on port 3005","timestamp":"2025-06-16T12:07:57.974Z"}
+{"level":"info","message":"Allowed CORS origins: http://localhost:8005, http://localhost:8006, http://localhost:8007, http://localhost:8008, http://127.0.0.1:5502, http://54.166.206.245:8005, http://54.166.206.245:8006, http://54.166.206.245:8007, http://54.166.206.245:8008, http://localhost:3005","timestamp":"2025-06-16T12:07:57.974Z"}
+{"level":"info","message":"Successfully connected to PostgreSQL","timestamp":"2025-06-16T12:07:59.431Z"}
+{"level":"info","message":"PostgreSQL connected successfully","timestamp":"2025-06-16T12:07:59.615Z"}
+{"level":"info","message":"Database schema initialized successfully","timestamp":"2025-06-16T12:08:00.373Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:08:44.503Z"}
+{"level":"info","message":"CORS request from:","origin":"http://127.0.0.1:5502","timestamp":"2025-06-16T12:08:44.831Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Login attempt","timestamp":"2025-06-16T12:08:44.944Z"}
+{"level":"info","message":"Database query result","rowCount":1,"timestamp":"2025-06-16T12:08:45.558Z"}
+{"isValid":true,"level":"info","message":"Password valid","timestamp":"2025-06-16T12:08:45.764Z"}
+{"email":"ajay1@gmail.com","level":"info","message":"Token generated for user","timestamp":"2025-06-16T12:08:45.840Z","userId":3}
+{"email":"ajay1@gmail.com","level":"info","message":"Cookie set for user","timestamp":"2025-06-16T12:08:45.846Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T12:13:05.406Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T12:13:05.408Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:85:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T12:13:05.414Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T12:13:05.420Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T12:13:05.421Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:85:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T12:13:05.422Z"}
+{"level":"info","message":"CORS request from:","origin":"https://artifacts.grokusercontent.com","timestamp":"2025-06-16T12:13:05.424Z"}
+{"level":"error","message":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","timestamp":"2025-06-16T12:13:05.425Z"}
+{"error":"CORS policy: Origin https://artifacts.grokusercontent.com not allowed","level":"error","message":"Unhandled error","stack":"Error: CORS policy: Origin https://artifacts.grokusercontent.com not allowed\n    at origin (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\serverr.js:85:21)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:219:13\n    at optionsCallback (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:199:9)\n    at corsMiddleware (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\cors\\lib\\index.js:204:7)\n    at Layer.handle [as handle_request] (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:328:13)\n    at C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:286:9\n    at Function.process_params (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (C:\\Users\\LENOVO L480\\Downloads\\AG-Signup_AjayKumar\\Backend\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at internalNext (C:\\Users\\LENOVO L480\\Downloads\\node_modules\\helmet\\index.cjs:531:6)","timestamp":"2025-06-16T12:13:05.426Z"}

@@ -238,7 +238,6 @@
             text-decoration: underline;
         }
 
-        /* Notification Styles */
         .alert {
             position: fixed;
             top: 20px;
@@ -273,7 +272,6 @@
             to { transform: translateX(100%); opacity: 0; }
         }
 
-        /* Media Queries for Responsive Design */
         @media (max-width: 1024px) {
             .big-circle {
                 width: 800px;
@@ -459,12 +457,11 @@
                 <button type="submit" class="login-button">Login</button>
             </form>
             <div class="links">
-                <a href="http://54.166.206.245:8007/">Sign Up</a> | <a href="http://54.166.206.245:8005">Forgot Password?</a>
+                <a href="http://localhost:8007/">Sign Up</a> | <a href="http://localhost:8005">Forgot Password?</a>
             </div>
         </div>
     </div>
     <script>
-        // Show Alert
         function showAlert(type, message) {
             const alert = document.createElement('div');
             alert.className = `alert ${type}`;
@@ -488,7 +485,6 @@
             const password = document.getElementById('password').value;
             const errorMessage = document.getElementById('error-message');
 
-            // Basic email regex for validation
             const emailRegex = /^[a-zA-Z0-9._-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
             
             if (!email) {
@@ -534,33 +530,35 @@
             const password = document.getElementById('password').value;
             const errorMessage = document.getElementById('error-message');
 
-            // Client-side validation
             if (!validateForm()) {
                 return;
             }
 
             try {
-                const response = await fetch('http://54.166.206.245:3005/api/login', {
+                console.log('Sending login request:', { email }); // Debug
+                const response = await fetch('http://localhost:3005/api/login', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ email, password })
                 });
                 const data = await response.json();
-                if (data.message) {
-                    showAlert('success', data.message);
+                console.log('Login response:', { status: response.status, data }); // Debug
+                if (response.ok && data.token) {
+                    localStorage.setItem('token', data.token);
+                    showAlert('success', 'Login successful');
                     setTimeout(() => {
-                        window.location.href = '/profile';
+                        window.location.href = 'dashboard.html';
                     }, 3000);
                 } else {
                     errorMessage.textContent = data.error || 'Login failed';
                     showAlert('error', data.error || 'Login failed');
                 }
             } catch (err) {
+                console.error('Login error:', err);
                 errorMessage.textContent = 'Error connecting to server';
                 showAlert('error', 'Error connecting to server');
             }
         });
     </script>
 </body>
-</html> 
-
+</html>
