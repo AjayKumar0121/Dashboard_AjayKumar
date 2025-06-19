@@ -457,7 +457,7 @@
                 <button type="submit" class="login-button">Login</button>
             </form>
             <div class="links">
-                <a href="http://localhost:8007/">Sign Up</a> | <a href="http://localhost:8005">Forgot Password?</a>
+                <a href="http://44.223.23.145:8007/">Sign Up</a> | <a href="http://44.223.23.145:8005">Forgot Password?</a>
             </div>
         </div>
     </div>
@@ -536,7 +536,7 @@
 
             try {
                 console.log('Sending login request:', { email }); // Debug
-                const response = await fetch('http://localhost:3005/api/login', {
+                const response = await fetch('http://44.223.23.145:3400/api/login', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ email, password })
@@ -547,7 +547,7 @@
                     localStorage.setItem('token', data.token);
                     showAlert('success', 'Login successful');
                     setTimeout(() => {
-                        window.location.href = 'dashboard.html';
+                        window.location.href = 'dashboard/index.html';
                     }, 3000);
                 } else {
                     errorMessage.textContent = data.error || 'Login failed';

@@ -37,11 +37,11 @@ const allowedOrigins = [
   'http://localhost:8007',
   'http://localhost:8008',
   'http://127.0.0.1:5502',
-  'http://54.166.206.245:8005',
-  'http://54.166.206.245:8006',
-  'http://54.166.206.245:8007',
-  'http://54.166.206.245:8008',
-  process.env.FRONTEND_URL || 'http://localhost:8005'
+  'http://44.223.23.145:8005',
+  'http://44.223.23.145:8006',
+  'http://44.223.23.145:8007',
+  'http://44.223.23.145:8008',
+  process.env.FRONTEND_URL || 'http://44.223.23.145:8005'
 ];
 
 // CORS setup
@@ -65,7 +65,7 @@ app.use('/uploads', express.static(path.join(__dirname, 'Uploads')));
 // PostgreSQL setup
 const pool = new Pool({
   user: process.env.DB_USER || 'postgres',
-  host: process.env.DB_HOST || 'localhost',
+  host: process.env.DB_HOST || 'postgres',
   database: process.env.DB_NAME || 'auth_db',
   password: process.env.DB_PASSWORD || 'admin123',
   port: process.env.DB_PORT || 5432,

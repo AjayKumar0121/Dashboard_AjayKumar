@@ -9,6 +9,15 @@ services:
     networks:
       - app-network
 
+dashboard:
+    build:
+      context: ./Frontend/dashboard
+    ports:
+      - "8004:80"
+    networks:
+      - app-network
+
+
   login:
     build:
       context: ./Frontend/login
@@ -29,16 +38,16 @@ services:
     build:
       context: ./Backend
     ports:
-      - "3005:3005"
+      - "3400:3400"
     environment:
       - NODE_ENV=production
-      - PORT=3005
+      - PORT=3400
       - DB_HOST=postgres
       - DB_USER=postgres
       - DB_NAME=auth_db
       - DB_PASSWORD=admin123
       - DB_PORT=5432
-      - FRONTEND_URL=http://54.166.206.245:8005
+      - FRONTEND_URL=http://44.223.23.145:8005
     volumes:
       - ./Backend:/app
       - ./Backend/server.env:/app/server.env
@@ -52,7 +61,7 @@ services:
   postgres:
     image: postgres:14
     ports:
-      - "5434:5432"
+      - "5400:5432"
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=admin123

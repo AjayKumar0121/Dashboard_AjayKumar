@@ -553,13 +553,13 @@
       if (!token) {
         showAlert('error', 'Please log in to access the dashboard');
         setTimeout(() => {
-          window.location.href = 'http://localhost:8006';
+          window.location.href = 'http://44.223.23.145:8006';
         }, 3000);
         return;
       }
 
       try {
-        const response = await fetch('http://localhost:3005/api/profile', {
+        const response = await fetch('http://44.223.23.145:3400/api/profile', {
           method: 'GET',
           headers: {
             'Authorization': `Bearer ${token}`,
@@ -579,7 +579,7 @@
           avatarSkeleton.style.display = 'none';
           userAvatar.style.display = 'block';
           userAvatar.src = user.profile_image 
-            ? `http://localhost:3005${user.profile_image}`
+            ? `http://44.223.23.145:3005${user.profile_image}`
             : 'https://img.icons8.com/fluency/48/user-male-circle.png';
           userName.textContent = user.username || 'User';
           userName.style.opacity = 0;
@@ -594,7 +594,7 @@
         showAlert('error', 'Session expired. Please log in again.');
         localStorage.removeItem('token');
         setTimeout(() => {
-          window.location.href = 'http://localhost:8006';
+          window.location.href = 'http://44.223.23.145:8006';
         }, 3000);
       }
     }
